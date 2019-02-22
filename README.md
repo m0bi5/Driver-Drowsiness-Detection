@@ -5,9 +5,9 @@ A drowsiness detection algorithm developed by using OpenCV,dlib,Python3.
 
 ## Weekly progress
 
----
-
 ### 22/2/2019
+
+---
 
 #### Features added
 
@@ -18,13 +18,13 @@ A drowsiness detection algorithm developed by using OpenCV,dlib,Python3.
 
 #### Results obtained
 
-<img src='Results/eye_detection1'>
+<img src='https://github.com/m0bi5/Driver-Drowsiness-Detection/Results/eye_detection1.png'>
 
-<img src='Results/eye_detection2'>
+<img src='https://github.com/m0bi5/Driver-Drowsiness-Detection/Results/eye_detection2.png'>
 
 Detection of 6 feature points for each eye
 
-<img src='Results/EAR_plot'>
+<img src='https://github.com/m0bi5/Driver-Drowsiness-Detection/Results/EAR_plot.png'>
 EAR plot of a video in which the subject blinked at random intervals
 
 ---
