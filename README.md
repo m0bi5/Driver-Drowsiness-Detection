@@ -18,7 +18,7 @@ A drowsiness detection algorithm developed by using OpenCV,dlib,Python3.
 
 #### Results obtained
 
-![alt text](https://github.com/m0bi5/Driver-Drowsiness-Detection/blob/master/Results/eye_detection1.png?raw=true) ![alt text](https://github.com/m0bi5/Driver-Drowsiness-Detection/blob/master/Results/eye_detection2.png?raw=true)
+![alt text](https://github.com/m0bi5/Driver-Drowsiness-Detection/blob/master/Results/eye_detection.png?raw=true) 
 
 Detection of 6 feature points for each eye
 
