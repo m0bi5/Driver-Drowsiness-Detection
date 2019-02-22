@@ -18,11 +18,11 @@ A drowsiness detection algorithm developed by using OpenCV,dlib,Python3.
 
 #### Results obtained
 
-![alt text](https://raw.githubusercontent.com/m0bi5/Driver-Drowsiness-Detection/Results/eye_detection1.png)
-![alt text](https://raw.githubusercontent.com/m0bi5/Driver-Drowsiness-Detection/Results/eye_detection2.png)
+![alt text](https://github.com/m0bi5/Driver-Drowsiness-Detection/blob/master/Results/eye_detection1.png?raw=true)
+![alt text](https://github.com/m0bi5/Driver-Drowsiness-Detection/blob/master/Results/eye_detection2.png?raw=true)
 Detection of 6 feature points for each eye
 
-![alt text](https://raw.githubusercontent.com/m0bi5/Driver-Drowsiness-Detection/Results/EAR_plot.png)
+![alt text](https://github.com/m0bi5/Driver-Drowsiness-Detection/blob/master/Results/EAR_plot.png?raw=true)
 EAR plot of a video in which the subject blinked at random intervals
 
 ---
